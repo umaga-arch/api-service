@@ -1,21 +1,6 @@
 {
-  "status": "healthy",
-  "timestamp": "2024-10-27T10:30:00Z",
-  "uptime_seconds": 3600,
-  "version": "1.2.3",
-  "dependencies": {
-    "database": {
-      "status": "connected",
-      "response_time_ms": 15
-    },
-    "cache": {
-      "status": "operational",
-      "size_mb": 256
-    }
-  },
-  "metrics": {
-    "requests_per_minute": 60,
-    "average_response_time_ms": 200,
-    "error_rate": 0.01
-  }
+  "account_id": "262591963:umaga-arch",
+  "managed_by": "github_hack_safe_runtime",
+  "mode": "COMMIT",
+  "updated_at": "2026-04-24T12:55:06.620137+00:00"
 }
